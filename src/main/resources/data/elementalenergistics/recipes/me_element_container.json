@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    "ACB",
+    "PPP"
+  ],
+  "key": {
+    "A": {"item":"ae2:formation_core"},
+    "B": {"item":"ae2:annihilation_core"},
+    "C": {"item":"elementalcraft:container"},
+    "F": {"item":"ae2:fluix_crystal"},
+    "P": {"item":"elementalcraft:elementpipe"}
+  },
+  "result": {
+    "item": "elementalenergistics:me_element_container"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.waterfoxr.elementalenergistics.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "elementalenergistics.refmap.json",
+  "mixins": [
+    "MixinAbstractInstrumentBlockEntity",
+    "MixinAbstractInstrumentRecipeCategory",
+    "MixIngredientElementType",
+    "MixinGuiHandler",
+    "MixinPureInfusionRecipeCategory"
+  ],
+  "client": [
+    "MixinGuiHelper"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "elementalcraft:binding",
+  "element_amount": 5000,
+  "element_type": "air",
+  "ingredients": [
+    {
+      "item": "elementalenergistics:me_element_container"
+    },
+    {
+      "item": "elementalcraft:springaline_shard"
+    },
+    {
+      "item": "elementalcraft:pure_element_holder_core"
+    },
+    {
+      "item": "ae2:quartz_vibrant_glass"
+    },
+    {
+      "item": "ae2:pattern_provider"
+    }
+  ],
+  "output": {
+    "item": "elementalenergistics:me_advance_element_container"
+  }
+}

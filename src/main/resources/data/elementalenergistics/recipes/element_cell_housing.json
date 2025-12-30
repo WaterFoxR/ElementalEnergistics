@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "elementalcraft:burnt_glass"
+    },
+    "B": {
+      "item": "elementalcraft:drenched_iron_ingot"
+    },
+    "C": {
+      "item": "elementalcraft:contained_crystal"
+    },
+    "D": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "B B",
+    "CDC"
+  ],
+  "result": {
+    "item": "elementalenergistics:element_cell_housing"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,37 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# 项目排除路径
+/src/main/resources/assets/ae2/ae2guide/
+/src/main/resources/assets/ae2/blockstates/
+/src/main/resources/assets/ae2/lang/
+/src/main/resources/assets/ae2/models/
+/src/main/resources/assets/ae2/particles/
+/src/main/resources/assets/ae2/screens/common/
+/src/main/resources/assets/ae2/screens/terminals/
+/src/main/resources/assets/ae2/sounds/
+/src/main/resources/assets/ae2/textures/
+/src/main/resources/assets/elementalcraft/
