@@ -12,6 +12,11 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.block.entity.BlockEntity;
 
+/*
+ * Author: Almost Reliable, rlnt
+ * Source: Applied Elemental (https://github.com/AlmostReliable/appliedelemental)
+ * License: ARR - Used with permission. All rights reserved by the original author.
+ */
 public class ElementCellGuiHandler implements ICellGuiHandler {
 
     @Override

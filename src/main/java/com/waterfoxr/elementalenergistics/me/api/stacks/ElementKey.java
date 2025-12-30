@@ -16,6 +16,11 @@ import sirttas.elementalcraft.api.name.ECNames;
 
 import java.util.List;
 
+/*
+ * Author: Almost Reliable, rlnt
+ * Source: Applied Elemental (https://github.com/AlmostReliable/appliedelemental)
+ * License: ARR - Used with permission. All rights reserved by the original author.
+ */
 public class ElementKey extends AEKey {
 
     private final ElementType elementType;

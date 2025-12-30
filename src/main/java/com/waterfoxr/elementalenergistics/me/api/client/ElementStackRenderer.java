@@ -22,6 +22,11 @@ import sirttas.elementalcraft.event.TickHandler;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ * Author: Almost Reliable, rlnt
+ * Source: Applied Elemental (https://github.com/AlmostReliable/appliedelemental)
+ * License: ARR - Used with permission. All rights reserved by the original author.
+ */
 public class ElementStackRenderer implements AEKeyRenderHandler<ElementKey> {
 
     private static final ResourceLocation OUTER = ElementalCraft_createRL("textures/effect/source_outer.png");

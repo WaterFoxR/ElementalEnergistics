@@ -5,6 +5,12 @@ import com.waterfoxr.elementalenergistics.me.api.stacks.ElementKey;
 import sirttas.elementalcraft.api.element.ElementType;
 import sirttas.elementalcraft.api.element.storage.IElementStorage;
 
+/*
+ * Author: Almost Reliable, rlnt
+ * Source: Applied Elemental (https://github.com/AlmostReliable/appliedelemental)
+ * License: ARR - Used with permission. All rights reserved by the original author.
+ */
+
 /**
  * Utility class to get the first available element from an {@link IElementStorage}.
  *

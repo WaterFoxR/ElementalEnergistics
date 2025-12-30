@@ -14,7 +14,11 @@ import sirttas.elementalcraft.api.element.storage.IElementStorage;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+ * Author: Almost Reliable, rlnt
+ * Source: Applied Elemental (https://github.com/AlmostReliable/appliedelemental)
+ * License: ARR - Used with permission. All rights reserved by the original author.
+ */
 public class ElementP2PTunnelPart extends CapabilityP2PTunnelPart<ElementP2PTunnelPart, IElementStorage> {
 
     private static final P2PModels MODELS = new P2PModels(ElementalEnergistics.id("part/p2p_tunnel_element"));

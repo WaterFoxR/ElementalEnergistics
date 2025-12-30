@@ -7,7 +7,11 @@ import com.waterfoxr.elementalenergistics.me.api.stacks.ElementKey;
 import sirttas.elementalcraft.api.element.ElementType;
 import sirttas.elementalcraft.api.element.IElementTypeProvider;
 import sirttas.elementalcraft.api.element.storage.IElementStorage;
-
+/*
+ * Author: Almost Reliable, rlnt
+ * Source: Applied Elemental (https://github.com/AlmostReliable/appliedelemental)
+ * License: ARR - Used with permission. All rights reserved by the original author.
+ */
 @SuppressWarnings("UnstableApiUsage")
 public class GenericInternalInventoryWrapper implements IElementStorage, IElementTypeProvider {
 

@@ -11,6 +11,11 @@ import org.jetbrains.annotations.Nullable;
 import sirttas.elementalcraft.api.element.ElementType;
 import sirttas.elementalcraft.api.name.ECNames;
 
+/*
+ * Author: Almost Reliable, rlnt
+ * Source: Applied Elemental (https://github.com/AlmostReliable/appliedelemental)
+ * License: ARR - Used with permission. All rights reserved by the original author.
+ */
 public class ElementKeyType extends AEKeyType {
 
     public static final ElementKeyType INSTANCE = new ElementKeyType();

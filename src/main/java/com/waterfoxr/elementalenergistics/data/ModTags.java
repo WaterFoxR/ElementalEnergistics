@@ -21,6 +21,11 @@ import sirttas.elementalcraft.tag.ECTags;
 
 import java.util.concurrent.CompletableFuture;
 
+/*
+ * Author: Almost Reliable, rlnt
+ * Source: Applied Elemental (https://github.com/AlmostReliable/appliedelemental)
+ * License: ARR - Used with permission. All rights reserved by the original author.
+ */
 public class ModTags {
     private ModTags(){}
 

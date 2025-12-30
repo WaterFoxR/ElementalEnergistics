@@ -83,7 +83,12 @@ public class ModLanguageProvider extends LanguageProvider {
         }
     }
 
-    public record LangEntry(String key, String value) implements Supplier<MutableComponent> {
+        /*
+         * Author: Almost Reliable, rlnt
+         * Source: Applied Elemental (https://github.com/AlmostReliable/appliedelemental)
+         * License: ARR - Used with permission. All rights reserved by the original author.
+         */
+        public record LangEntry(String key, String value) implements Supplier<MutableComponent> {
 
         private static final Set<LangEntry> ENTRIES = new HashSet<>();
 
